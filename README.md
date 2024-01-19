@@ -9,7 +9,12 @@ Ironhack Data Analytics Segundo Proyecto
 Este proyecto consiste en revisar un dataset relacionado con las reviews de diferentes cervezas.
 
 ### :computer: **Herramientas**
-PowerBI, visual studio, Excell o Google Sheets
+- PowerBI
+- Visual studio
+- Excell o Google Sheets
+- Google Slides
+- www.remove.bg/es/upload to remove backgrounds
+- Kaggle
 
 
 ### :wrench: **Configuración**
@@ -42,7 +47,12 @@ El dashboard consiste en 4 paginas:
     │   ├── beer_profile_and_ratings.csv
     │   └── Brewery Name Fuzzy Match List.csv     
     ├── images
-    │   ├── visuals.jpg
+    │   ├── Background(1).jpg
+    │   ├── Background(2).jpg
+    │   ├── Background.jpg
+    │   ├── summarybutton.jpg
+    │   ├── qyabutton.jpg
+    │   ├── tasty.jpg
     │   └── visual-analysis-guidebook.pdf
     └── README.md
 ```
