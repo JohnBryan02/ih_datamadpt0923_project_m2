@@ -9,11 +9,11 @@ Ironhack Data Analytics Segundo Proyecto
 Este proyecto consiste en revisar un dataset relacionado con las reviews de diferentes cervezas.
 
 ### :computer: **Herramientas**
-PowerBI, visual studio, Excell
+PowerBI, visual studio, Excell o Google Sheets
 
 
 ### :wrench: **Configuración**
-Tener Power BI premium para poder realizar algunas de las graficas.
+Power BI premium para poder realizar algunas de las graficas.
 
 ### :see_no_evil: **Uso**
 Tanto si eres un profesional o un amateur en el mundo de las cervezas este dashboard te será util para entender lo que opina la gente de las diferentes cervezas del mundo! 
